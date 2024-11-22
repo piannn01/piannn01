@@ -1,5 +1,7 @@
 ![COMINGSOON OPREC HIMASI](https://github.com/user-attachments/assets/9a823e38-8d2d-41d3-b899-8173e2eef795)
 ## Hi there 👋
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)
+
 <!--
 **piannn01/piannn01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
