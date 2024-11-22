@@ -3,7 +3,7 @@
 <h1 align="center">Hai, aku piannn👋</h1>
 <h3 align="center">Menjabat sebagai mahasiswa di salah satu univ di jombang</h3>
 
-- 🔭 I’m currently working on [HIMASI](https://www.instagram.com/himasiunipdu?igsh=dTB5d3B5ZTdjM2Ey)
+- 🔭 sedang kerja di [HIMASI](https://www.instagram.com/himasiunipdu?igsh=dTB5d3B5ZTdjM2Ey)
 
 - ⚡ Fun fact **ternyata aku masih menyukaimu hehe**
 
