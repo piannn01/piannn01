@@ -1,6 +1,6 @@
 ![COMINGSOON OPREC HIMASI](https://github.com/user-attachments/assets/9a823e38-8d2d-41d3-b899-8173e2eef795)
 <!--Hi there 👋-->
-<h1 align="center">Hi 👋, I'm piannn</h1>
+<h1 align="center">Hai, aku piannn👋</h1>
 <h3 align="center">Menjabat sebagai mahasiswa di salah satu univ di jombang</h3>
 
 - 🔭 I’m currently working on [HIMASI](https://www.instagram.com/himasiunipdu?igsh=dTB5d3B5ZTdjM2Ey)
